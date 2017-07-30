@@ -1,2 +1,2 @@
-# cli-webbots
+# clj-webbots
 Sample webbots for learning
